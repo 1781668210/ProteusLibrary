@@ -1,0 +1,13 @@
+Seuls les fichiers inclus dans le projet sont compilés lorsque la commande 'Compiler' est lancée.
+Utilisez le nom logique %name% dans les lignes de commande de l'assembleur/programmateur/simulateur (dans la Page Outils). Ce nom logique sera remplacé par le nom réel de sortie du projet (qui est le même que le nom du fichier projet).
+Vous pouvez ajouter toute sorte de fichiers dans l'Espace de Travail. Seuls ceux avec les extensions C ou LIB seront compilés.
+Utilisez les marque-pages (bookmarks) pendant l'édition. Ctrl+F2 pour mettre/retirer un marque-page et F2/Shift+F2 pour naviguer entre eux, en avant et en arrière (respectivement).
+Utilisez le nom logique %target% dans la ligne de commande de l'assembleur. Ce nom logique sera remplacé par le nom de la cible courante.
+Pour personnaliser le dossier de 'sortie' à l'intérieur de l'Espace de Travail cliquez avec la touche droite sur le panneau et sélectionner l'option 'Personnaliser l'Espace de Travail...'.. Ensuite, éditez la chaîne de filtre dans le champ 'Dossier de sortie'.
+Pour passer du fichier source au fichier d'entête correspondant, ouvrez le menu avec le clic droit et choisissez l'option "Echanger source/entête".
+Uilisez le clic droit pour naviguer rapidement entre les fonctions du fichier source courant.
+Le panneau Explorateur montre la liste de toutes les fonctions et variables globales des fichiers du projet courant.
+Pour les séquences d'édition répétitives, enregistrez une macro (Ctrl+Shift+R) et rejouez la ensuite (Ctrl_Shift+P).
+Les thèmes de coloration syntaxique peuvent être choisis dans la liste dans le coin inférieur gauche de la fenêtre de dialogue "Paramètres de l'Editeur".
+Utilisez Ctrl+] pour déplacer le point d'insertion jusaaqu'au caractère pair correspondant.
+Cliquez avec la touche droite de la souris sur la fenêtre source en maintenant la touche Ctrl et un menu vous propose les fonctions du fichier courant.

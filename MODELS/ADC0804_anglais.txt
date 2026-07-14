@@ -1,0 +1,16 @@
+ADC0804 model for Isis
+- version : 1.00
+- site : http://electro-plan.ifrance.com ( this site is in french and english )
+- email : electro-plan@ifrance.com
+
+you can do what you want with that file, if you don't change what is in the zip file.
+
+to install it :
+- put the ADC0804.MDF file into the model directory.
+- add MODFILE=ADC0804.MDF to the ADC080x proprietes.
+
+History : 
+
+- Version : 1.00
+
+original version.

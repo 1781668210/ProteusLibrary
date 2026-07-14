@@ -1,0 +1,21 @@
+How to make or read a .LML file
+
+copy into this folder a command prompt{from the startmenu/programs/accessories}
+copy in getmdf and putmdf .exe files from labcenters bin folder within your install
+
+now edit the properties of the dos prompt and add the path to this folder 
+you can now play around with get and put mdf
+use forinstance getmdf/? or putmdf/? to get command help
+
+edit the batch file that is there.... youll see whats going on
+
+
+i use this system to quickly create new .lml files
+
+the .lml is just a labcenter model library file
+and contains .mdf lisa script models
+
+you can edit the shortcuts by right click choose properites 
+for the command prompt  then add the current path to the "start in" where e:\tmp_sldvdd is 
+
+
